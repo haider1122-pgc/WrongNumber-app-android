@@ -82,11 +82,9 @@
         android:layout_width="wrap_content"
         android:layout_height="55dp"
         android:layout_above="@+id/textView3"
-        android:layout_below="@+id/textView5"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_marginStart="20dp"
-        android:layout_marginTop="352dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
 

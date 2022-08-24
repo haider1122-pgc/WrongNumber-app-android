@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     private void openNewAvtivityOnBTNClick() {
-        
+
         Intent intent = new Intent(this, StartedScreen.class);
         // intent.putExtra("message",te); //to access the widgets of second activity
         startActivity(intent);
