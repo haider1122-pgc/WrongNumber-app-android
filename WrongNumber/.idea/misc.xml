@@ -3,12 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/drawable/bg_round.xml" value="0.1955" />
         <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
         <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/drawable/monogram_background.xml" value="0.1945" />
+        <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/drawable/under_bg.xml" value="0.1955" />
         <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/layout/activity_authentication_screen.xml" value="0.2" />
-        <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/layout/activity_code_verification_screen.xml" value="0.19166666666666668" />
+        <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/layout/activity_code_verification_screen.xml" value="0.25" />
+        <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/layout/activity_form_screen.xml" value="0.19166666666666668" />
         <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/layout/activity_started_screen.xml" value="0.19166666666666668" />
+        <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/layout/progress_dialougue.xml" value="0.19166666666666668" />
         <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/mipmap-anydpi-v26/monogram.xml" value="0.1945" />
         <entry key="..\:/pitb/WrongNumber/WrongNumber-app-android/WrongNumber/app/src/main/res/mipmap-anydpi-v26/monogram_round.xml" value="0.1945" />
       </map>
